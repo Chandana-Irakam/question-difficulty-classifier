@@ -1,0 +1,18 @@
+MODEL_NAME = "bert-base-uncased"
+
+LABEL_NAMES = ["Easy", "Medium", "Hard"]
+NUM_LABELS = 3
+
+MAX_LENGTH = 384
+DROPOUT = 0.3
+
+CLASS_WEIGHTS = [1.0, 1.1, 1.3]
+
+LEARNING_RATE = 1.5e-5
+TRAIN_BATCH_SIZE = 4
+EVAL_BATCH_SIZE = 4
+EPOCHS = 10
+WEIGHT_DECAY = 0.02
+
+OUTPUT_DIR = "./results"
+SEED = 42
