@@ -31,6 +31,11 @@ This project uses a fine-tuned BERT model to classify questions into three diffi
 
 ---
 
+📊 **Project Presentation (PPT)**  
+👉 https://docs.google.com/presentation/d/1SzYIVtfsH7BEZ8TVI9X8FqBbg53PkZdr/edit?usp=sharing&ouid=110889364532911956081&rtpof=true&sd=true
+
+---
+
 ## 📂 Project Structure
 
 ```
@@ -94,6 +99,8 @@ python app.py
 ## 🙏 Acknowledgment
 
 This project was developed under the guidance of Mr. Panigrahi Srikanth Sir, whose support and feedback were valuable throughout the development and deployment of this system.
+
+---
 
 ## 📜 License
 
