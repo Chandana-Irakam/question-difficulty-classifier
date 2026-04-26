@@ -91,6 +91,10 @@ python app.py
 
 ---
 
+## 🙏 Acknowledgment
+
+This project was developed under the guidance of Mr. Panigrahi Srikanth Sir, whose support and feedback were valuable throughout the development and deployment of this system.
+
 ## 📜 License
 
 This project is for educational and research purposes.
